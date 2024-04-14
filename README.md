@@ -1,5 +1,7 @@
 ### Hi there 👋
-https://leetcard.jacoblin.cool/BigLadDylan?theme=dark&font=JetBrains%20Mono&ext=heatmap
+
+[![Leetcode Stats]([https://leetcard.jacoblin.cool/JacobLinCool](https://leetcard.jacoblin.cool/BigLadDylan?theme=dark&font=JetBrains%20Mono&ext=heatmap))](https://leetcode.com/JacobLinCool)
+
 <!--
 **BigLadDylan/BigLadDylan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
